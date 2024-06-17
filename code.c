@@ -153,7 +153,7 @@ static GFileMonitor *file_monitor = NULL;
 static gboolean update_grid();
 
 // Biến số máy
-static int so_may = 69; // Bạn có thể thay đổi giá trị này để kiểm tra cho các số máy khác nhau
+static int so_may = 71; // Bạn có thể thay đổi giá trị này để kiểm tra cho các số máy khác nhau
 
 // Hàm đọc tài khoản từ tệp
 GList* read_accounts_from_file(const char *filename) {
